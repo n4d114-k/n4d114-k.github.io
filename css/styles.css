@@ -133,11 +133,15 @@ nav ul {
 }
 
 a.button {
-  background: black;
+  background: #092532;
   display: block;
   padding: 10px;
   color: white;
   margin-bottom: 10px;
+}
+
+a.projects {
+ width: 16rem;
 }
 
 canvas {
