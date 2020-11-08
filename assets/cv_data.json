@@ -1,0 +1,95 @@
+{
+   "About":"Courteous and enthusiastic, I am interested in JS and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing apps and building websites. I am keen to gain more experience in this field.",
+   "Languages":[
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6)",
+      "Python",
+      "SQL"
+   ],
+   "Preprocessors":[
+      "Haml",
+      "Sass",
+      "Stylus"
+   ],
+   "Libraries/API":[
+      "jQuery",
+      "React.JS",
+      "React Redux",
+      "D3.JS",
+      "Node.JS"
+   ],
+   "Tools":[
+      "Atom",
+      "Webpack",
+      "Chrome/Firefox Dev Tools",
+      "Babel",
+      "Git"
+   ],
+   "Platforms":[
+      "Linux"
+   ],
+   "Study Projects":{
+      "VanillaJS Local Storage To-do List App":"https://github.com/n4d114-k/JavaScript30/tree/master/15_LocalStorage",
+      "VanillaJS Webcam App":"https://github.com/n4d114-k/JavaScript30/tree/master/19_Webcam_Fun",
+      "VanillaJS Speech Detection App":"https://github.com/n4d114-k/JavaScript30/tree/master/20_Speech_Detection",
+      "VanillaJS Whack a Mole Game":"https://github.com/n4d114-k/JavaScript30/tree/master/30_Whack_a_Mole",
+      "React Random Quote Machine":"https://github.com/n4d114-k/FCC_Projects/tree/main/4_Front_End_Libraries_Certification_Projects/1_Random_Quote_Machine",
+      "D3.JS Heat Map":"https://github.com/n4d114-k/FCC_Projects/tree/main/3_Data_Visualization_Certification_Projects/3_Heat_Map",
+      "React Drum Machine":"https://github.com/n4d114-k/FCC_Projects/tree/main/4_Front_End_Libraries_Certification_Projects/3_Drum_Machine",
+      "React Calculator":"https://github.com/n4d114-k/FCC_Projects/tree/main/4_Front_End_Libraries_Certification_Projects/4_JavaScript_Calculator",
+      "React 25 + 5 Clock":"https://github.com/n4d114-k/FCC_Projects/tree/main/4_Front_End_Libraries_Certification_Projects/5_25_%2B_5_Clock",
+      "React + Redux Reduxstagram":"https://github.com/n4d114-k/Redux_Course"
+   },
+   "Codewars":[
+      "https://www.codewars.com/users/n4d114-k",
+      "https://www.codewars.com/users/n4d114-k/badges/large"
+   ],
+   "Links":{
+      "GitHub":[
+         "github",
+         "https://github.com/n4d114-k",
+         "#bd2c00"
+      ],
+      "Twitter":[
+         "twitter",
+         "https://twitter.com/n4d114_k",
+         "#1da1fa"
+      ],
+      "LinkedIn":[
+         "linkedin",
+         "https://www.linkedin.com/in/n4d114-k",
+         "#0077b5"
+      ],
+      "FreeCodeCamp":[
+         "freecodecamp",
+         "https://www.freecodecamp.org/n4d114-k",
+         "#1b1b32"
+      ],
+      "Glitch":[
+         "glitch",
+         "https://glitch.com/@n4d114-k",
+         "#fac7ff"
+      ],
+      "Repl.it":[
+         "replit",
+         "https://repl.it/@NadiiaK",
+         "#6d7d84"
+      ],
+      "Codepen":[
+         "codepen",
+         "https://codepen.io/n4d114-k",
+         "#47cf73"
+      ],
+      "Sololearn":[
+         "sololearn",
+         "https://www.sololearn.com/Profile/17794892",
+         "#1abc9c"
+      ],
+      "Dev.to":[
+         "devto",
+         "https://dev.to/n4d114k",
+         "#0a0a0a"
+      ]
+   }
+}
