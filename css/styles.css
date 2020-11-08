@@ -29,17 +29,22 @@ body {
 nav {
   position: relative;
   perspective: 60rem;
+  margin: 0 10rem;
 }
 
 .animated-dropdown > li > a {
+  max-width: 15vw;
+  min-width: 5vw;
+  max-height: 5vh;
   color: var(--black);
   text-decoration: none;
   font-size: 1em;
   background: rgba(0,0,0,0.2);
-  padding: 10px 20px;
-  display: inline-block;
-  margin: 20px;
+  padding: 0.5rem 1rem;
+  display: flex;
+  margin: 1rem;
   border-radius: 2px;
+  z-index: -1;
 }
 
 nav ul {
@@ -47,6 +52,7 @@ nav ul {
   margin: 0;
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -105,7 +111,7 @@ nav ul {
 }
 
 .about {
-  min-width: 500px;
+  min-width: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
