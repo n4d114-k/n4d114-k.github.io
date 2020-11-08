@@ -1,10 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Oswald");
 
 :root {
-  --first-color: #f1f3f8;
-  --second-color: #d6e0f0;
-  --third-color: #8d93ab;
-  --fourth-color: #393b44;
+  --light-gray: #f1f3f8;
+  --dark-gray: #8d93ab;
+  --black: #393b44;
 
 }
 
@@ -22,7 +21,7 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  background: var(--first-color);
+  background: var(--light-gray);
   overflow: hidden;
 }
 
@@ -33,7 +32,7 @@ nav {
 }
 
 .animated-dropdown > li > a {
-  color: var(--fourth-color);
+  color: var(--black);
   text-decoration: none;
   font-size: 20px;
   background: rgba(0,0,0,0.2);
@@ -130,7 +129,7 @@ nav ul {
 
 .dropdown a {
   text-decoration: none;
-  color: var(--third-color);
+  color: var(--dark-gray);
 }
 
 a.button {
@@ -139,10 +138,6 @@ a.button {
   padding: 10px;
   color: white;
   margin-bottom: 10px;
-}
-
-.button[href*=twitter] {
-  background: #019FE9;
 }
 
 canvas {

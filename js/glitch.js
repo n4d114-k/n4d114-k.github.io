@@ -5,7 +5,7 @@ const data = {
     weight: 'bold'
   },
   colors: ['rgb(248, 225, 0)', 'rgb(232, 0, 137)', 'rgb(0, 170, 234)'],
-  text: `LOREM IPSUM DOLOR SIT AMET * CONCECTETUR ADIPISCING ELIT`,
+  text: `HI, I'M NADIIA, * WEB DEVELOPER`,
   textlength: 0
 }
 const canvas = {
