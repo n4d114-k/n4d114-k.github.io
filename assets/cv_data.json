@@ -29,6 +29,10 @@
    "Platforms":[
       "Linux"
    ],
+   "Books":[
+     "William Stallings, Operating Systems: Internals and Design Principles"
+      "Flanagan David, Javascript the Definitive Guide: (7th Edition(2020))"
+   ],
    "Study Projects":{
       "VanillaJS Local Storage To-do List App":"https://github.com/n4d114-k/JavaScript30/tree/master/15_LocalStorage",
       "VanillaJS Webcam App":"https://github.com/n4d114-k/JavaScript30/tree/master/19_Webcam_Fun",
@@ -37,9 +41,9 @@
       "React Random Quote Machine":"https://github.com/n4d114-k/FCC_Projects/tree/main/4_Front_End_Libraries_Certification_Projects/1_Random_Quote_Machine",
       "D3.JS Heat Map":"https://github.com/n4d114-k/FCC_Projects/tree/main/3_Data_Visualization_Certification_Projects/3_Heat_Map",
       "React Drum Machine":"https://github.com/n4d114-k/FCC_Projects/tree/main/4_Front_End_Libraries_Certification_Projects/3_Drum_Machine",
-      "React Calculator":"https://github.com/n4d114-k/FCC_Projects/tree/main/4_Front_End_Libraries_Certification_Projects/4_JavaScript_Calculator",
       "React 25 + 5 Clock":"https://github.com/n4d114-k/FCC_Projects/tree/main/4_Front_End_Libraries_Certification_Projects/5_25_%2B_5_Clock",
-      "React + Redux Reduxstagram":"https://github.com/n4d114-k/Redux_Course"
+      "React + Redux Reduxstagram":"https://github.com/n4d114-k/Redux_Course",
+      "Superhero Database (MERN Stack)": "https://github.com/n4d114-k/Superhero_Database"
    },
    "Codewars":[
       "https://www.codewars.com/users/n4d114-k",
